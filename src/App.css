@@ -1,0 +1,14 @@
+table{
+  border:2px solid black;
+  border-collapse: collapse;
+  margin:20px;
+  width:600px;
+}
+th,td{
+  border:2px solid black;
+  border-collapse: collapse;
+}
+caption{
+  background-color: aqua;
+  border: 10px dashed green;
+}
